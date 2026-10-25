@@ -1,4 +1,4 @@
 #1) მომხმარებელს შეაყვანინე სახელი და ასაკი. f-სტრინგის გამოყენებით დაბეჭდე წინადადება, მაგალითად: „მე ვარ ნიკა და ვარ 15 წლის.“
-name = input("nika")
-age = input("15")
-print(f"me var {name} da var {age} wlis.")
+name = "nika"
+age = 15
+print(f" me var {name} da var {age} wlis")
